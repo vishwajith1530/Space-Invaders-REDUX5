@@ -1,5 +1,5 @@
 # Python-Files
-# Author: Tyler Johnson
+# Author: Vishwajith Rajendran
 # Project: "Space Invaders, REDUX"
 # Creation Date: 1/24/2022
 # Description:
